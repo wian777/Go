@@ -1,0 +1,3 @@
+ # wian 20181005
+Was ich in Go alles ausprobieren möchte
+ 
